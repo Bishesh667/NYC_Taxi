@@ -37,3 +37,18 @@ Star Schema Warehouse
 Analytics Mart
    ↓
 Power BI
+
+
+## Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](images/executive_overview.png)
+
+### Zone & Route Analysis
+
+![Zone & Route Analysis](images/zone_route_analysis.png)
+
+### Data Quality
+
+![Data Quality](images/data_quality.png)
